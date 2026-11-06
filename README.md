@@ -1,5 +1,7 @@
 # GCC Electricity Transition, 2000–2024
 
+**🌐 الموقع:** https://algilani2008.github.io/gcc-electricity-transition/ | **📖 الشرح بالعربي:** [شرح_المشروع.md](شرح_المشروع.md)
+
 How the six Gulf Cooperation Council countries (Saudi Arabia, UAE, Qatar, Kuwait, Oman, Bahrain) make their electricity, how fast demand has grown, and how much of that growth has been met by low-carbon sources (solar, wind, nuclear, hydro). Built on the open [Our World in Data energy dataset](https://github.com/owid/energy-data); every number in this folder is produced by `run_analysis.py`.
 
 ![Low-carbon share of electricity](results/charts/low_carbon_share.png)
